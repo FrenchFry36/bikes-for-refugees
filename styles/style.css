@@ -137,7 +137,7 @@ button {
 /* hero */
 
 .hero {
-  background-image: url("https://github.com/FrenchFry36/bikes-for-refugees/blob/main/images/header-bike.jpg");
+  background-image: url("images/header-bike.jpg");
   background-color: var(--grey-light);
   padding: 4rem 2rem 4rem 2rem;
   margin-bottom: 48px;
